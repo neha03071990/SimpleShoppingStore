@@ -3,7 +3,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <link rel="stylesheet" type="text/css" href="css/shop.css">
-	<title>Dota Shopping Store</title> <script type="text/javascript">
+	<title> New Shopping Store</title> <script type="text/javascript">
 		function getItems() {
 			location = document.form1.category.options[document.form1.category.selectedIndex].value
 		}
