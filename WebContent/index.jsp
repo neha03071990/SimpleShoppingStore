@@ -29,7 +29,7 @@
 
 			<h3>Welcome to Dota Shopping Store</h3>
 			<h6>
-				This website is a simple shopping store which is built for learning
+				This website is for a shopping store which is built for learning
 				purposes. <br />All the Item Names used in this website belongs to
 				Valve Dota2. As a huge Dota2 Fan I created this application making
 				that as the idea.
